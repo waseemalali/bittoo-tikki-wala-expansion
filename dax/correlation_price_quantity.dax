@@ -1,0 +1,28 @@
+Correlation_Price_Quantity =
+VAR MeanX =
+    AVERAGE(Sales[UnitPrice])
+
+VAR MeanY =
+    AVERAGE(Sales[Quantity])
+
+VAR Numerator =
+    SUMX(
+        Sales,
+        (Sales[UnitPrice] - MeanX) *
+        (Sales[Quantity] - MeanY)
+    )
+
+VAR Denominator =
+    SQRT(
+        SUMX(
+            Sales,
+            POWER(Sales[UnitPrice] - MeanX, 2)
+        ) *
+        SUMX(
+            Sales,
+            POWER(Sales[Quantity] - MeanY, 2)
+        )
+    )
+
+RETURN
+    DIVIDE(Numerator, Denominator)

@@ -1,0 +1,1001 @@
+﻿CustomerID,Gender,Age,LoyaltyLevel,City
+1,F,41,None,Ghaziabad
+2,F,49,None,Faridabad
+3,M,48,None,New Delhi
+4,Other,56,None,Noida
+5,F,37,None,Ghaziabad
+6,Other,44,None,New Delhi
+7,Other,18,None,Faridabad
+8,F,61,None,New Delhi
+9,F,33,Gold,Sonepat
+10,M,54,Silver,Sonepat
+11,F,27,None,New Delhi
+12,F,56,None,Faridabad
+13,F,59,None,Faridabad
+14,M,15,None,Noida
+15,M,52,None,New Delhi
+16,Other,40,Silver,Gurugram
+17,M,18,Silver,Faridabad
+18,F,65,None,Gurugram
+19,Other,42,Silver,New Delhi
+20,M,25,None,Gurugram
+21,M,54,Gold,Sonepat
+22,Other,28,None,New Delhi
+23,M,18,None,Faridabad
+24,M,32,None,Gurugram
+25,Other,47,None,Faridabad
+26,F,50,None,Faridabad
+27,Other,16,Platinum,Sonepat
+28,F,56,Silver,Sonepat
+29,F,59,None,Gurugram
+30,F,28,None,Noida
+31,Other,33,None,Sonepat
+32,Other,64,Silver,Gurugram
+33,F,22,Silver,New Delhi
+34,Other,60,Gold,Ghaziabad
+35,F,50,None,New Delhi
+36,F,60,Silver,Gurugram
+37,Other,52,None,Noida
+38,F,63,Silver,Sonepat
+39,M,55,None,Faridabad
+40,F,27,None,Noida
+41,Other,53,None,Gurugram
+42,M,60,None,Gurugram
+43,F,57,None,Sonepat
+44,Other,18,Silver,Ghaziabad
+45,Other,55,None,Gurugram
+46,M,45,None,New Delhi
+47,F,30,None,New Delhi
+48,F,54,Silver,New Delhi
+49,Other,48,None,Noida
+50,F,39,None,Gurugram
+51,Other,39,None,Ghaziabad
+52,M,64,None,Ghaziabad
+53,Other,62,None,Noida
+54,F,16,Silver,Gurugram
+55,F,44,None,New Delhi
+56,F,23,None,Ghaziabad
+57,M,44,None,Ghaziabad
+58,Other,41,None,Noida
+59,F,30,Silver,Gurugram
+60,F,53,None,Gurugram
+61,Other,49,None,Noida
+62,Other,31,None,Faridabad
+63,Other,45,None,Faridabad
+64,Other,30,Silver,Sonepat
+65,F,16,None,Noida
+66,Other,16,Gold,Faridabad
+67,M,23,None,Noida
+68,Other,41,None,New Delhi
+69,Other,49,None,New Delhi
+70,Other,26,None,Sonepat
+71,M,20,None,Ghaziabad
+72,M,44,None,Sonepat
+73,F,38,None,Sonepat
+74,M,58,None,Faridabad
+75,F,45,None,New Delhi
+76,M,16,Silver,Gurugram
+77,Other,61,None,Gurugram
+78,Other,22,None,Noida
+79,M,16,Platinum,Noida
+80,Other,35,Silver,Sonepat
+81,M,27,Silver,Gurugram
+82,F,50,None,Sonepat
+83,M,39,None,Gurugram
+84,M,53,Gold,Gurugram
+85,M,56,None,Ghaziabad
+86,Other,56,None,Noida
+87,Other,61,None,Faridabad
+88,F,62,None,Noida
+89,Other,38,Silver,Sonepat
+90,F,16,None,Ghaziabad
+91,Other,43,None,Noida
+92,F,19,Silver,Noida
+93,Other,39,None,Gurugram
+94,Other,59,None,Ghaziabad
+95,M,44,None,Faridabad
+96,F,48,None,Sonepat
+97,Other,20,Silver,Faridabad
+98,Other,53,Silver,New Delhi
+99,Other,28,None,Ghaziabad
+100,F,18,None,Faridabad
+101,Other,56,None,Ghaziabad
+102,F,52,None,New Delhi
+103,F,23,None,New Delhi
+104,Other,64,Silver,Gurugram
+105,Other,28,None,Noida
+106,F,31,None,New Delhi
+107,Other,46,None,Sonepat
+108,F,21,None,Ghaziabad
+109,Other,38,Silver,Gurugram
+110,F,55,None,Ghaziabad
+111,Other,20,Silver,New Delhi
+112,F,39,Gold,New Delhi
+113,F,44,None,Ghaziabad
+114,F,36,Silver,Faridabad
+115,F,30,Silver,Faridabad
+116,M,46,Silver,Noida
+117,Other,58,None,Noida
+118,F,28,None,Noida
+119,F,44,None,Noida
+120,M,38,None,Sonepat
+121,F,19,None,Noida
+122,F,48,None,Ghaziabad
+123,M,15,None,Faridabad
+124,M,61,Gold,Sonepat
+125,M,50,None,New Delhi
+126,F,65,None,Ghaziabad
+127,Other,43,None,Ghaziabad
+128,M,51,None,Noida
+129,F,46,None,Sonepat
+130,F,49,None,Sonepat
+131,F,35,None,Sonepat
+132,Other,40,None,New Delhi
+133,Other,53,Silver,New Delhi
+134,M,16,None,Ghaziabad
+135,Other,65,None,Ghaziabad
+136,M,25,None,Sonepat
+137,F,18,Gold,Sonepat
+138,F,61,None,Faridabad
+139,Other,58,None,Ghaziabad
+140,F,63,None,Faridabad
+141,M,40,None,New Delhi
+142,Other,42,None,Faridabad
+143,M,57,None,Gurugram
+144,F,46,None,Sonepat
+145,Other,34,None,Noida
+146,Other,19,Silver,Noida
+147,M,45,Silver,Noida
+148,Other,48,None,Gurugram
+149,M,45,None,Noida
+150,F,51,None,Faridabad
+151,M,42,None,Gurugram
+152,F,36,None,Sonepat
+153,M,59,None,Faridabad
+154,F,58,None,Gurugram
+155,M,40,None,Gurugram
+156,Other,47,Gold,Noida
+157,Other,49,None,Ghaziabad
+158,M,36,None,Faridabad
+159,F,36,None,Ghaziabad
+160,F,59,None,New Delhi
+161,M,64,None,New Delhi
+162,F,51,Gold,Gurugram
+163,F,43,None,Noida
+164,M,54,None,New Delhi
+165,Other,21,None,Gurugram
+166,M,23,None,Faridabad
+167,F,49,None,Gurugram
+168,Other,16,None,Sonepat
+169,Other,37,Silver,Noida
+170,Other,39,None,Faridabad
+171,M,22,Silver,Noida
+172,M,54,None,New Delhi
+173,Other,59,None,Sonepat
+174,F,54,None,Gurugram
+175,Other,25,None,Faridabad
+176,M,25,None,Faridabad
+177,M,47,Silver,New Delhi
+178,Other,50,None,Sonepat
+179,Other,41,None,Ghaziabad
+180,M,58,Silver,Gurugram
+181,F,54,None,Noida
+182,M,51,None,Gurugram
+183,Other,41,Gold,Sonepat
+184,M,18,None,Noida
+185,Other,37,Silver,Sonepat
+186,M,30,Gold,Gurugram
+187,M,22,Silver,Gurugram
+188,Other,39,None,New Delhi
+189,Other,49,Silver,Gurugram
+190,Other,19,None,Sonepat
+191,F,38,None,Noida
+192,M,52,Gold,New Delhi
+193,F,20,None,New Delhi
+194,F,40,None,Noida
+195,M,30,None,Faridabad
+196,M,65,Gold,New Delhi
+197,Other,17,None,Gurugram
+198,F,23,None,Noida
+199,Other,44,None,Gurugram
+200,Other,50,None,New Delhi
+201,Other,50,None,Sonepat
+202,Other,37,None,Faridabad
+203,M,49,None,Sonepat
+204,M,36,None,Gurugram
+205,F,62,Gold,Noida
+206,Other,20,Gold,Sonepat
+207,F,41,Gold,New Delhi
+208,Other,64,None,Noida
+209,M,47,None,New Delhi
+210,M,42,None,Faridabad
+211,M,21,Silver,Noida
+212,F,46,None,Sonepat
+213,M,33,None,Gurugram
+214,Other,50,None,New Delhi
+215,F,37,Silver,Noida
+216,Other,42,None,Noida
+217,Other,23,None,Gurugram
+218,Other,20,None,Ghaziabad
+219,F,31,Silver,Ghaziabad
+220,F,47,None,Gurugram
+221,F,25,Silver,Ghaziabad
+222,M,29,None,Noida
+223,Other,60,Silver,Gurugram
+224,M,39,Silver,Sonepat
+225,M,35,None,Noida
+226,F,60,Silver,Sonepat
+227,F,31,None,Faridabad
+228,F,51,None,Noida
+229,M,36,Gold,Sonepat
+230,M,18,None,Gurugram
+231,F,57,Silver,Sonepat
+232,Other,50,Silver,Noida
+233,M,64,None,New Delhi
+234,M,20,None,Sonepat
+235,F,32,Gold,Noida
+236,Other,17,None,Gurugram
+237,M,29,Silver,Ghaziabad
+238,M,41,None,Sonepat
+239,F,44,Silver,Sonepat
+240,F,59,None,Gurugram
+241,F,43,Silver,Ghaziabad
+242,Other,37,None,New Delhi
+243,M,43,None,Faridabad
+244,Other,24,None,Ghaziabad
+245,Other,50,Silver,Gurugram
+246,Other,49,Silver,Faridabad
+247,Other,26,None,Noida
+248,Other,39,None,Faridabad
+249,F,35,Silver,Gurugram
+250,Other,36,None,Sonepat
+251,Other,42,Gold,Gurugram
+252,M,53,Silver,New Delhi
+253,Other,22,None,Faridabad
+254,M,43,Silver,Faridabad
+255,F,59,None,Noida
+256,Other,64,None,Faridabad
+257,F,17,Silver,Noida
+258,M,38,None,Noida
+259,M,38,None,Faridabad
+260,M,63,None,Faridabad
+261,M,53,None,Gurugram
+262,F,46,Platinum,Sonepat
+263,F,32,Gold,Gurugram
+264,F,59,None,Ghaziabad
+265,Other,16,None,New Delhi
+266,Other,33,None,Noida
+267,F,20,Silver,Faridabad
+268,Other,41,None,New Delhi
+269,Other,52,Silver,Gurugram
+270,M,58,None,New Delhi
+271,F,44,None,New Delhi
+272,M,22,Silver,Sonepat
+273,M,47,None,Sonepat
+274,F,53,Silver,Noida
+275,Other,32,None,New Delhi
+276,Other,52,Platinum,New Delhi
+277,F,15,None,Faridabad
+278,Other,47,None,New Delhi
+279,F,25,None,Noida
+280,F,37,None,Sonepat
+281,F,36,Gold,New Delhi
+282,Other,19,None,Faridabad
+283,Other,47,None,Faridabad
+284,Other,42,Silver,New Delhi
+285,Other,23,Silver,New Delhi
+286,F,24,None,Faridabad
+287,Other,39,None,Sonepat
+288,Other,43,None,Sonepat
+289,M,58,None,Gurugram
+290,F,20,None,Noida
+291,F,54,Silver,Faridabad
+292,Other,59,Silver,Faridabad
+293,Other,19,Gold,Noida
+294,F,41,None,Sonepat
+295,M,29,None,Gurugram
+296,M,27,Gold,Ghaziabad
+297,F,49,Gold,Noida
+298,Other,55,Gold,Noida
+299,F,62,Silver,Sonepat
+300,M,58,None,Faridabad
+301,F,49,None,Ghaziabad
+302,Other,54,None,New Delhi
+303,M,59,Silver,Ghaziabad
+304,F,20,Silver,New Delhi
+305,F,29,None,New Delhi
+306,M,49,Gold,Ghaziabad
+307,F,21,None,Sonepat
+308,F,31,Silver,Faridabad
+309,F,29,None,Gurugram
+310,M,22,None,New Delhi
+311,M,54,None,New Delhi
+312,M,43,None,New Delhi
+313,F,57,Gold,Sonepat
+314,Other,16,Gold,Noida
+315,Other,29,Silver,Noida
+316,M,48,None,Faridabad
+317,M,15,Silver,Gurugram
+318,F,38,None,Gurugram
+319,M,33,None,Noida
+320,F,19,None,Noida
+321,F,24,None,Noida
+322,M,50,None,Sonepat
+323,Other,41,Silver,Gurugram
+324,M,17,Silver,Noida
+325,F,16,None,Sonepat
+326,F,52,None,Faridabad
+327,Other,37,None,Sonepat
+328,M,30,Silver,Sonepat
+329,Other,21,Gold,New Delhi
+330,M,30,None,Gurugram
+331,F,43,None,Faridabad
+332,Other,64,Gold,Ghaziabad
+333,F,18,None,Ghaziabad
+334,M,24,None,Ghaziabad
+335,Other,42,None,Faridabad
+336,Other,20,None,Ghaziabad
+337,F,30,None,Noida
+338,F,38,None,Sonepat
+339,F,42,None,New Delhi
+340,Other,22,None,New Delhi
+341,F,55,None,Gurugram
+342,Other,40,Silver,Sonepat
+343,Other,62,None,Ghaziabad
+344,F,21,Gold,Noida
+345,F,56,None,Ghaziabad
+346,F,42,Silver,Faridabad
+347,Other,28,None,New Delhi
+348,Other,45,Silver,New Delhi
+349,F,64,Silver,Ghaziabad
+350,F,58,Silver,Gurugram
+351,M,59,None,Ghaziabad
+352,M,26,Silver,Sonepat
+353,Other,52,None,Ghaziabad
+354,Other,42,None,New Delhi
+355,Other,56,None,Noida
+356,Other,61,Silver,Ghaziabad
+357,M,64,None,Ghaziabad
+358,F,52,None,New Delhi
+359,Other,60,None,Ghaziabad
+360,M,45,None,New Delhi
+361,F,15,Gold,Ghaziabad
+362,F,58,Silver,Gurugram
+363,Other,27,None,Gurugram
+364,F,49,None,Ghaziabad
+365,F,33,Silver,Gurugram
+366,F,35,Silver,Faridabad
+367,M,30,None,Sonepat
+368,Other,23,Gold,Gurugram
+369,M,26,None,Ghaziabad
+370,Other,40,None,Sonepat
+371,Other,31,None,Gurugram
+372,F,29,None,Sonepat
+373,Other,45,Silver,Sonepat
+374,F,27,None,Gurugram
+375,M,55,Silver,Ghaziabad
+376,M,63,None,Ghaziabad
+377,Other,35,None,Ghaziabad
+378,F,20,None,Gurugram
+379,F,55,Silver,New Delhi
+380,F,59,None,Faridabad
+381,Other,35,None,New Delhi
+382,Other,65,Gold,Faridabad
+383,Other,54,None,New Delhi
+384,M,40,Silver,Sonepat
+385,M,46,None,Noida
+386,F,49,None,Gurugram
+387,Other,27,None,Gurugram
+388,Other,41,None,Ghaziabad
+389,F,61,None,Sonepat
+390,Other,43,None,Faridabad
+391,Other,51,Silver,Ghaziabad
+392,M,52,Silver,Faridabad
+393,Other,61,None,Noida
+394,F,52,Gold,Faridabad
+395,F,28,Platinum,Sonepat
+396,M,29,None,Noida
+397,F,65,None,Sonepat
+398,F,57,None,New Delhi
+399,M,57,None,Ghaziabad
+400,F,48,Silver,Ghaziabad
+401,Other,20,Gold,Gurugram
+402,Other,37,None,Noida
+403,M,42,None,Faridabad
+404,M,35,None,Ghaziabad
+405,Other,34,None,Ghaziabad
+406,F,54,None,Noida
+407,Other,57,Gold,Ghaziabad
+408,Other,64,None,Faridabad
+409,M,23,None,Noida
+410,M,47,Gold,Noida
+411,F,56,None,Noida
+412,F,28,None,Gurugram
+413,Other,27,Silver,Ghaziabad
+414,Other,65,Gold,Ghaziabad
+415,M,40,None,Gurugram
+416,M,40,Silver,Ghaziabad
+417,Other,31,None,Ghaziabad
+418,F,64,None,New Delhi
+419,Other,41,None,Sonepat
+420,F,37,None,Sonepat
+421,M,63,None,Noida
+422,Other,44,None,Faridabad
+423,Other,40,None,Faridabad
+424,M,30,Gold,Faridabad
+425,Other,60,None,Faridabad
+426,Other,65,None,Noida
+427,M,28,None,Noida
+428,F,47,None,Ghaziabad
+429,F,51,None,Faridabad
+430,Other,64,None,Faridabad
+431,Other,43,None,Faridabad
+432,F,47,Silver,Gurugram
+433,Other,55,None,Ghaziabad
+434,M,37,None,Noida
+435,M,55,Silver,Sonepat
+436,M,42,None,Sonepat
+437,Other,54,None,Noida
+438,F,45,None,Sonepat
+439,M,19,None,Noida
+440,Other,50,Silver,Noida
+441,Other,31,Gold,Ghaziabad
+442,Other,28,Gold,Noida
+443,F,37,None,Noida
+444,M,48,Gold,Faridabad
+445,M,52,None,Noida
+446,Other,54,None,Sonepat
+447,Other,62,None,Ghaziabad
+448,M,40,None,New Delhi
+449,Other,47,Platinum,Gurugram
+450,M,56,None,New Delhi
+451,Other,17,None,Faridabad
+452,M,38,Platinum,Faridabad
+453,F,25,None,Gurugram
+454,F,54,None,Sonepat
+455,M,51,Silver,Faridabad
+456,F,43,None,Sonepat
+457,Other,16,None,Noida
+458,M,28,Platinum,Ghaziabad
+459,F,64,Silver,Sonepat
+460,Other,58,Silver,New Delhi
+461,Other,19,None,New Delhi
+462,Other,37,Silver,Gurugram
+463,F,64,None,Sonepat
+464,Other,37,None,Ghaziabad
+465,Other,30,Silver,Noida
+466,F,47,Platinum,Sonepat
+467,F,26,Silver,Ghaziabad
+468,Other,25,None,Sonepat
+469,F,19,None,Sonepat
+470,M,36,None,Faridabad
+471,Other,63,None,Faridabad
+472,Other,43,None,New Delhi
+473,M,41,None,Ghaziabad
+474,Other,19,Silver,Ghaziabad
+475,F,41,Silver,Faridabad
+476,Other,15,None,Noida
+477,M,15,Silver,Noida
+478,Other,35,None,Ghaziabad
+479,F,17,Silver,Gurugram
+480,Other,26,Silver,Gurugram
+481,M,28,None,Noida
+482,Other,52,Silver,Faridabad
+483,M,30,None,Sonepat
+484,Other,44,None,Ghaziabad
+485,M,55,Gold,Ghaziabad
+486,Other,40,Silver,Gurugram
+487,F,16,Silver,Noida
+488,F,52,None,Sonepat
+489,F,50,None,Ghaziabad
+490,M,39,None,Ghaziabad
+491,M,23,None,Noida
+492,Other,34,None,New Delhi
+493,M,18,None,Noida
+494,F,47,Silver,Noida
+495,Other,44,Platinum,Noida
+496,F,18,None,Sonepat
+497,Other,25,None,Sonepat
+498,F,55,None,Gurugram
+499,M,35,None,New Delhi
+500,Other,23,Gold,Sonepat
+501,F,57,None,Ghaziabad
+502,F,23,Silver,Ghaziabad
+503,M,57,None,Gurugram
+504,M,18,None,Gurugram
+505,F,64,Gold,Ghaziabad
+506,F,56,Silver,Faridabad
+507,Other,44,Silver,Noida
+508,F,17,Silver,Sonepat
+509,M,55,Silver,Sonepat
+510,Other,25,None,Noida
+511,M,44,None,New Delhi
+512,Other,18,Silver,Noida
+513,M,43,None,Noida
+514,M,64,Silver,Ghaziabad
+515,F,61,None,Sonepat
+516,Other,49,None,Gurugram
+517,Other,54,Platinum,Gurugram
+518,M,57,None,Sonepat
+519,Other,54,None,New Delhi
+520,F,17,Silver,Faridabad
+521,M,42,None,Noida
+522,Other,61,None,Faridabad
+523,F,41,None,Gurugram
+524,F,43,Gold,Noida
+525,Other,18,None,Faridabad
+526,F,41,Silver,Sonepat
+527,M,44,None,New Delhi
+528,F,62,None,Gurugram
+529,M,51,None,Faridabad
+530,Other,64,None,New Delhi
+531,Other,33,None,Faridabad
+532,Other,25,None,Faridabad
+533,F,33,Silver,Gurugram
+534,F,16,None,Noida
+535,M,40,None,Noida
+536,M,59,None,New Delhi
+537,Other,37,Silver,Faridabad
+538,M,43,Silver,Ghaziabad
+539,M,36,None,Gurugram
+540,Other,25,Gold,New Delhi
+541,Other,50,Platinum,Ghaziabad
+542,Other,26,None,Faridabad
+543,Other,23,None,Noida
+544,Other,58,None,New Delhi
+545,Other,52,None,Sonepat
+546,Other,53,None,New Delhi
+547,F,33,None,New Delhi
+548,F,21,None,Sonepat
+549,Other,30,Silver,Ghaziabad
+550,M,44,None,Faridabad
+551,Other,33,None,New Delhi
+552,F,46,Silver,Sonepat
+553,Other,53,None,Gurugram
+554,M,16,Gold,Ghaziabad
+555,Other,39,None,Gurugram
+556,M,16,Silver,New Delhi
+557,Other,27,Gold,Gurugram
+558,M,26,Silver,Gurugram
+559,F,31,Silver,Gurugram
+560,M,23,None,Faridabad
+561,F,22,None,Noida
+562,M,43,Silver,Gurugram
+563,M,46,None,Noida
+564,Other,33,None,Sonepat
+565,F,48,Silver,Faridabad
+566,M,20,None,Noida
+567,M,59,Silver,Sonepat
+568,Other,20,None,Faridabad
+569,M,35,None,Faridabad
+570,M,21,None,Gurugram
+571,F,26,None,Gurugram
+572,M,48,None,New Delhi
+573,M,22,Silver,Sonepat
+574,M,22,None,New Delhi
+575,M,15,Gold,Noida
+576,F,21,Gold,Noida
+577,Other,36,None,Sonepat
+578,M,16,None,Sonepat
+579,M,35,Silver,Faridabad
+580,Other,49,None,Noida
+581,Other,65,None,Faridabad
+582,M,33,None,Faridabad
+583,Other,53,None,Faridabad
+584,Other,17,Silver,Gurugram
+585,M,50,None,Faridabad
+586,Other,29,None,Gurugram
+587,Other,54,Gold,Gurugram
+588,Other,63,None,New Delhi
+589,M,35,None,Ghaziabad
+590,M,55,None,Gurugram
+591,F,39,Silver,New Delhi
+592,M,22,None,Gurugram
+593,F,64,None,Faridabad
+594,M,18,None,Faridabad
+595,F,52,None,New Delhi
+596,F,61,None,New Delhi
+597,F,51,None,Faridabad
+598,F,32,None,Ghaziabad
+599,F,23,Gold,Faridabad
+600,M,64,None,Gurugram
+601,Other,62,None,New Delhi
+602,M,50,Silver,Faridabad
+603,F,31,None,Ghaziabad
+604,M,32,None,Gurugram
+605,F,28,Silver,Gurugram
+606,M,54,Silver,Faridabad
+607,M,35,Gold,Sonepat
+608,F,39,Silver,Sonepat
+609,Other,45,None,New Delhi
+610,Other,28,None,Noida
+611,F,35,None,Noida
+612,Other,54,None,New Delhi
+613,F,36,Gold,Gurugram
+614,F,49,None,Sonepat
+615,F,21,None,Noida
+616,M,23,Silver,Faridabad
+617,M,65,Gold,Sonepat
+618,M,63,Silver,Noida
+619,F,56,None,Gurugram
+620,Other,49,Silver,Ghaziabad
+621,Other,46,None,New Delhi
+622,M,18,Silver,Ghaziabad
+623,Other,27,None,Gurugram
+624,Other,41,None,Sonepat
+625,M,65,Silver,New Delhi
+626,F,36,None,Faridabad
+627,F,60,Silver,Gurugram
+628,F,24,None,Gurugram
+629,F,18,Silver,Gurugram
+630,Other,50,None,New Delhi
+631,F,63,None,Gurugram
+632,M,63,Gold,Sonepat
+633,Other,25,None,Gurugram
+634,F,19,Silver,New Delhi
+635,F,41,None,Noida
+636,Other,44,None,Sonepat
+637,Other,16,None,Faridabad
+638,M,15,None,Gurugram
+639,M,56,None,Sonepat
+640,Other,45,None,New Delhi
+641,M,23,None,Gurugram
+642,F,57,None,Faridabad
+643,M,30,None,Noida
+644,Other,46,None,New Delhi
+645,Other,64,None,Sonepat
+646,F,57,None,New Delhi
+647,Other,43,None,Gurugram
+648,F,53,None,Ghaziabad
+649,F,37,None,Faridabad
+650,Other,45,None,Gurugram
+651,M,52,Silver,Sonepat
+652,Other,32,None,Noida
+653,M,32,None,Gurugram
+654,Other,24,None,Faridabad
+655,M,30,Gold,Gurugram
+656,Other,32,Gold,Gurugram
+657,F,42,None,Gurugram
+658,F,18,Silver,Gurugram
+659,M,35,None,New Delhi
+660,F,59,None,New Delhi
+661,F,50,Silver,Noida
+662,M,43,None,New Delhi
+663,F,54,None,Ghaziabad
+664,Other,58,Gold,New Delhi
+665,Other,53,None,Gurugram
+666,M,17,None,Sonepat
+667,F,41,None,Noida
+668,Other,33,None,Noida
+669,F,61,None,Gurugram
+670,M,40,None,Noida
+671,Other,27,None,Noida
+672,Other,63,None,Sonepat
+673,M,31,Silver,Gurugram
+674,Other,46,None,Noida
+675,Other,22,Platinum,Sonepat
+676,F,42,Gold,Noida
+677,M,59,Gold,Gurugram
+678,Other,32,Silver,Gurugram
+679,Other,39,None,Gurugram
+680,Other,61,None,New Delhi
+681,Other,42,None,Ghaziabad
+682,F,52,Silver,New Delhi
+683,M,38,None,New Delhi
+684,M,54,None,Noida
+685,F,25,None,Noida
+686,Other,16,None,Sonepat
+687,M,48,Silver,Sonepat
+688,Other,52,None,Ghaziabad
+689,Other,64,None,Ghaziabad
+690,Other,42,Silver,Gurugram
+691,M,34,None,Noida
+692,Other,28,None,Ghaziabad
+693,F,45,Gold,Ghaziabad
+694,M,31,Silver,Ghaziabad
+695,M,50,Gold,Gurugram
+696,Other,43,None,Gurugram
+697,Other,62,None,Gurugram
+698,Other,62,Silver,Noida
+699,Other,51,None,Ghaziabad
+700,F,48,None,Gurugram
+701,F,26,None,Gurugram
+702,Other,50,None,Faridabad
+703,F,64,None,Gurugram
+704,Other,61,Silver,New Delhi
+705,F,59,Silver,Sonepat
+706,M,18,None,Gurugram
+707,M,32,None,Noida
+708,M,30,None,Noida
+709,F,41,None,Noida
+710,F,21,Silver,Faridabad
+711,F,62,None,Noida
+712,M,44,Silver,Sonepat
+713,M,52,None,New Delhi
+714,M,55,Silver,Noida
+715,Other,27,Gold,Gurugram
+716,F,30,None,Sonepat
+717,F,23,Silver,Gurugram
+718,Other,51,None,Sonepat
+719,M,56,Silver,New Delhi
+720,F,31,None,Ghaziabad
+721,M,45,None,New Delhi
+722,F,54,Silver,Faridabad
+723,M,58,None,New Delhi
+724,F,44,None,Sonepat
+725,F,62,None,Gurugram
+726,M,28,Gold,Gurugram
+727,F,32,Silver,Ghaziabad
+728,Other,41,Platinum,Gurugram
+729,Other,57,None,Noida
+730,Other,39,None,Gurugram
+731,M,20,Silver,New Delhi
+732,M,53,None,Sonepat
+733,Other,20,Silver,Noida
+734,M,30,Gold,New Delhi
+735,M,21,Silver,Sonepat
+736,Other,42,Silver,Sonepat
+737,F,48,Gold,New Delhi
+738,Other,33,Silver,Noida
+739,Other,40,Platinum,Faridabad
+740,F,51,Silver,New Delhi
+741,Other,64,None,Faridabad
+742,Other,34,None,Noida
+743,F,28,Silver,Sonepat
+744,F,43,None,Faridabad
+745,Other,64,None,Noida
+746,F,31,None,Faridabad
+747,M,35,None,Faridabad
+748,F,46,None,Ghaziabad
+749,M,56,None,Noida
+750,M,38,None,New Delhi
+751,Other,60,None,Gurugram
+752,M,35,None,Noida
+753,M,51,None,Faridabad
+754,M,21,None,Ghaziabad
+755,M,32,Silver,Noida
+756,Other,41,Silver,Sonepat
+757,M,50,Silver,Gurugram
+758,Other,32,None,Sonepat
+759,Other,40,Platinum,Noida
+760,F,45,None,Gurugram
+761,Other,39,None,Gurugram
+762,M,36,None,Ghaziabad
+763,Other,65,None,New Delhi
+764,Other,52,Silver,Faridabad
+765,Other,31,Silver,Noida
+766,F,37,None,Ghaziabad
+767,M,16,Gold,New Delhi
+768,F,54,None,New Delhi
+769,M,26,None,New Delhi
+770,M,48,None,Ghaziabad
+771,F,45,None,Gurugram
+772,M,52,None,Gurugram
+773,Other,53,None,Noida
+774,F,24,None,Gurugram
+775,M,20,None,New Delhi
+776,Other,44,None,Ghaziabad
+777,Other,58,None,Gurugram
+778,Other,19,None,Sonepat
+779,M,50,None,Gurugram
+780,Other,58,Gold,Faridabad
+781,Other,25,None,New Delhi
+782,Other,51,Silver,Faridabad
+783,M,26,None,New Delhi
+784,F,47,None,Ghaziabad
+785,F,35,None,Gurugram
+786,F,63,None,Noida
+787,Other,51,None,Ghaziabad
+788,F,15,None,Sonepat
+789,M,46,Silver,Ghaziabad
+790,F,45,None,Sonepat
+791,M,57,Gold,Noida
+792,Other,64,Silver,Sonepat
+793,M,22,Gold,Noida
+794,M,61,None,Sonepat
+795,F,34,Silver,Sonepat
+796,M,19,Platinum,Gurugram
+797,M,25,None,Noida
+798,Other,36,None,Sonepat
+799,M,45,None,Faridabad
+800,M,63,Silver,Ghaziabad
+801,F,63,None,Faridabad
+802,F,47,None,Gurugram
+803,F,30,None,Ghaziabad
+804,Other,35,Gold,Noida
+805,F,62,None,Gurugram
+806,Other,36,None,Noida
+807,M,46,Silver,Faridabad
+808,Other,41,Platinum,New Delhi
+809,Other,41,None,Noida
+810,Other,46,None,Ghaziabad
+811,M,46,None,Gurugram
+812,M,36,Gold,Sonepat
+813,M,51,None,Noida
+814,F,46,Gold,Faridabad
+815,F,16,Gold,Sonepat
+816,F,32,None,Faridabad
+817,Other,47,None,Faridabad
+818,F,54,None,Sonepat
+819,M,27,Gold,Sonepat
+820,Other,19,None,Gurugram
+821,F,44,Silver,Ghaziabad
+822,F,23,Gold,Faridabad
+823,F,20,Gold,New Delhi
+824,F,20,None,Noida
+825,M,25,None,Ghaziabad
+826,M,37,Silver,Faridabad
+827,Other,56,None,Noida
+828,Other,58,None,New Delhi
+829,Other,59,None,Noida
+830,F,34,Gold,Noida
+831,Other,31,None,Sonepat
+832,Other,34,None,Gurugram
+833,Other,58,None,Faridabad
+834,M,28,None,Noida
+835,M,39,None,Faridabad
+836,F,19,Silver,Noida
+837,Other,47,None,Sonepat
+838,F,55,Silver,Faridabad
+839,Other,65,None,Sonepat
+840,M,42,None,Noida
+841,M,33,Silver,Ghaziabad
+842,F,20,Gold,New Delhi
+843,F,16,None,Noida
+844,F,28,Silver,Sonepat
+845,Other,41,None,New Delhi
+846,F,39,Silver,Faridabad
+847,F,18,None,New Delhi
+848,F,27,None,Ghaziabad
+849,F,16,None,Gurugram
+850,M,63,None,Noida
+851,M,40,None,Noida
+852,M,40,Gold,Gurugram
+853,M,39,None,Faridabad
+854,M,17,None,Faridabad
+855,Other,44,None,Gurugram
+856,Other,60,None,New Delhi
+857,F,29,None,Faridabad
+858,F,62,None,Ghaziabad
+859,M,36,None,New Delhi
+860,F,63,Silver,Ghaziabad
+861,M,55,None,Gurugram
+862,F,64,None,Sonepat
+863,Other,22,None,Sonepat
+864,M,57,None,Faridabad
+865,F,56,Gold,Noida
+866,Other,59,None,Ghaziabad
+867,M,48,None,Faridabad
+868,M,23,None,New Delhi
+869,M,21,Silver,Gurugram
+870,Other,56,Silver,Ghaziabad
+871,F,28,Platinum,Sonepat
+872,Other,20,Silver,Gurugram
+873,M,26,Gold,Faridabad
+874,Other,47,None,New Delhi
+875,F,15,None,Ghaziabad
+876,Other,59,None,New Delhi
+877,M,34,None,Ghaziabad
+878,Other,54,Silver,Noida
+879,M,62,None,Sonepat
+880,F,38,Silver,Faridabad
+881,F,24,None,Noida
+882,Other,59,None,Sonepat
+883,Other,24,None,Faridabad
+884,M,54,None,Faridabad
+885,Other,41,None,Noida
+886,Other,50,Silver,Sonepat
+887,M,52,Silver,New Delhi
+888,M,27,None,New Delhi
+889,Other,64,Silver,Gurugram
+890,Other,62,None,Noida
+891,F,24,Silver,Ghaziabad
+892,M,29,Platinum,New Delhi
+893,F,46,None,Sonepat
+894,M,32,None,Ghaziabad
+895,Other,29,None,Ghaziabad
+896,F,61,None,Sonepat
+897,M,60,Gold,Sonepat
+898,Other,49,None,Ghaziabad
+899,F,27,None,Sonepat
+900,F,30,None,Sonepat
+901,F,19,None,Noida
+902,Other,39,None,Ghaziabad
+903,M,62,Silver,Ghaziabad
+904,Other,25,None,Gurugram
+905,F,49,None,New Delhi
+906,M,39,None,Gurugram
+907,M,17,None,New Delhi
+908,F,52,Silver,New Delhi
+909,Other,27,None,New Delhi
+910,M,30,None,Gurugram
+911,Other,19,Gold,Sonepat
+912,Other,16,Gold,Sonepat
+913,M,26,None,Noida
+914,Other,47,None,Ghaziabad
+915,M,53,None,Sonepat
+916,F,64,None,Faridabad
+917,Other,63,None,Noida
+918,Other,29,Silver,Noida
+919,M,18,None,Noida
+920,M,37,Silver,Ghaziabad
+921,F,33,None,Gurugram
+922,Other,61,Silver,Gurugram
+923,Other,20,Silver,New Delhi
+924,Other,59,None,Gurugram
+925,M,32,None,New Delhi
+926,Other,23,None,Noida
+927,F,54,None,Ghaziabad
+928,F,30,None,Noida
+929,Other,47,Gold,Faridabad
+930,F,55,Gold,Faridabad
+931,Other,59,None,Sonepat
+932,M,41,None,Noida
+933,F,54,None,Ghaziabad
+934,Other,17,None,Faridabad
+935,Other,53,Silver,Faridabad
+936,M,54,None,Sonepat
+937,Other,60,Silver,Faridabad
+938,Other,63,None,Gurugram
+939,Other,65,Silver,Noida
+940,M,41,None,New Delhi
+941,M,43,None,Noida
+942,F,26,None,Ghaziabad
+943,M,18,None,Sonepat
+944,F,61,None,Gurugram
+945,F,41,None,Gurugram
+946,M,54,None,Sonepat
+947,F,62,None,Faridabad
+948,Other,23,Silver,Sonepat
+949,F,42,None,Noida
+950,M,58,None,Ghaziabad
+951,F,28,None,Gurugram
+952,F,59,None,Sonepat
+953,M,42,None,Gurugram
+954,M,37,None,Sonepat
+955,F,45,Silver,New Delhi
+956,F,36,None,Gurugram
+957,M,37,None,Gurugram
+958,M,25,None,Faridabad
+959,M,46,Silver,New Delhi
+960,Other,51,Silver,Ghaziabad
+961,Other,28,None,Noida
+962,Other,20,None,New Delhi
+963,F,20,None,Faridabad
+964,Other,30,None,Ghaziabad
+965,F,41,None,Gurugram
+966,M,46,Silver,Ghaziabad
+967,Other,22,None,New Delhi
+968,Other,65,None,Gurugram
+969,M,58,None,New Delhi
+970,Other,39,None,Ghaziabad
+971,M,29,None,Noida
+972,M,59,Silver,Faridabad
+973,Other,35,None,Noida
+974,Other,36,Gold,Ghaziabad
+975,Other,26,Gold,Sonepat
+976,Other,20,None,Ghaziabad
+977,F,50,Silver,Gurugram
+978,M,27,None,Faridabad
+979,M,65,Silver,Noida
+980,M,43,None,Sonepat
+981,M,29,Silver,Noida
+982,Other,31,None,Noida
+983,F,51,None,Ghaziabad
+984,Other,25,None,Noida
+985,F,30,Silver,Sonepat
+986,M,41,Silver,Noida
+987,F,40,None,New Delhi
+988,M,51,Gold,Ghaziabad
+989,Other,24,None,Sonepat
+990,Other,27,Silver,New Delhi
+991,F,61,None,Ghaziabad
+992,M,55,None,Faridabad
+993,F,29,Silver,Sonepat
+994,F,51,Silver,Sonepat
+995,M,15,Silver,Sonepat
+996,M,59,None,Sonepat
+997,F,38,Silver,Faridabad
+998,F,64,None,Sonepat
+999,Other,31,None,Faridabad
+1000,F,60,None,New Delhi

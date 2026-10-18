@@ -1,0 +1,26 @@
+﻿ProductID,ProductName,Category,BasePrice
+101,Bittoo Tikki Full (Olive Oil),Chaat,160
+102,Bittoo Tikki Half (Olive Oil),Chaat,95
+103,Aloo Tikki Chat,Chaat,75
+104,Papri Chaat,Chaat,95
+105,Golgappe (6 pcs),Chaat,60
+106,Raj Kachori,Chaat,120
+107,Dahi Bhalla,Chaat,85
+108,Pav Bhaji (Full),Main Course,130
+109,Chole Bhature (Full),Main Course,150
+110,Matar Kulcha,Main Course,110
+111,Paneer Kulcha,Main Course,140
+112,Sweet Lassi (Glass),Beverage,67
+113,Kesar Pista Badam Milk,Beverage,72
+114,Cold Coffee,Beverage,95
+115,Mineral Water 1L,Beverage,16
+116,Gulab Jamun (1 pc),Dessert,23
+117,Rasgulla (1 pc),Dessert,20
+118,Rasmalai (1 pc),Dessert,32
+119,Aloo Bhujia 200gm,Namkeen,38
+120,Spicy Nut 200gm,Namkeen,39
+121,Veg Hakka Noodles,Chinese,120
+122,Spring Roll (2 pcs),Chinese,90
+123,Executive Thali,Thali,220
+124,Special Thali,Thali,286
+125,Pav Bun (6 pcs),Bakery,40

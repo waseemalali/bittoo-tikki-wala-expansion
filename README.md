@@ -18,7 +18,7 @@ A Power BI business intelligence project that analyzes a year of sales from **Bi
 - **Wrote DAX measures**, including a Pearson correlation measure built from scratch ([`dax/correlation_price_quantity.dax`](dax/correlation_price_quantity.dax)).
 - **Measured relationships** between price, quantity, discount, customer age, and net sales.
 - **Assessed the Jordan market:** customer fit, competitors, SWOT, positioning, best city and areas, payment methods, and marketing channels.
-- **Delivered the findings** as a presentation and written reports in English and Arabic.
+- **Delivered the findings** as a presentation and two written reports: a full market expansion report and a correlation-focused summary.
 
 ## 📊 Key Results
 **What drives sales**
@@ -52,7 +52,7 @@ A Power BI business intelligence project that analyzes a year of sales from **Bi
 ## ▶️ How to View
 - **Power BI:** open [`dashboards/bittoo_tikki_wala_dashboard.pbix`](dashboards/bittoo_tikki_wala_dashboard.pbix) in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows). The data is already loaded in the file.
 - **Presentation:** [`reports/Bittoo_Tikki_Wala_Market_Analysis_Presentation.pptx`](reports/Bittoo_Tikki_Wala_Market_Analysis_Presentation.pptx).
-- **Written reports:** the [English report](reports/Bittoo_Tikki_Wala_Market_Analysis_EN.docx) and the more detailed [Arabic report](reports/Bittoo_Tikki_Wala_Jordan_Market_Analysis_AR.docx).
+- **Written reports:** the full [Jordan market expansion report](reports/Bittoo_Tikki_Wala_Jordan_Market_Expansion_Report.docx) (22 sections: market, competitors, SWOT, pricing, marketing, expansion plan, KPIs, and risks) and the shorter [correlation-focused summary](reports/Bittoo_Tikki_Wala_Market_Analysis_EN.docx).
 - **Raw data:** the six CSV files in [`data/`](data/).
 
 ## 📁 Project Structure
@@ -63,8 +63,8 @@ A Power BI business intelligence project that analyzes a year of sales from **Bi
 │   └── correlation_price_quantity.dax     # Pearson correlation measure in DAX
 ├── reports/
 │   ├── Bittoo_Tikki_Wala_Market_Analysis_Presentation.pptx
-│   ├── Bittoo_Tikki_Wala_Market_Analysis_EN.docx
-│   └── Bittoo_Tikki_Wala_Jordan_Market_Analysis_AR.docx
+│   ├── Bittoo_Tikki_Wala_Jordan_Market_Expansion_Report.docx  # Full expansion report
+│   └── Bittoo_Tikki_Wala_Market_Analysis_EN.docx               # Correlation-focused summary
 ├── data/
 │   ├── Sales.csv       # 20,000 order lines
 │   ├── Products.csv    # 25 products and categories
